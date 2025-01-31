@@ -7,6 +7,11 @@ public class DemoDay2 {
 		int a = 10;
 		int b = 20;
 		System.out.println(a + b);
+
+
+		int x = 5;
+		int y = 9;
+		System.out.println(x + y);
 	}
 
 }
